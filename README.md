@@ -7,7 +7,12 @@ This is a project that I made because I'm intrigued to solve the problems of cha
 
 ## Features
 
--Detects or classifies the subject or topic category of the customer's complaint.
+-Detects or classifies the subject or topic category of the customer's complaint. 
+['credit_card',
+'credit_reporting',
+'debt_collection',
+'mortgages_and_loans',
+'retail_banking']
 
 
 
