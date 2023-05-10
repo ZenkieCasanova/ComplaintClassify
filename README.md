@@ -30,9 +30,9 @@ This is a project that I made because I'm intrigued to solve the problems of cha
 
 ![App Screenshot](Screenshot.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshot2.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Screenshot3.png)
 
 ## Appendix and Future Updates
 
