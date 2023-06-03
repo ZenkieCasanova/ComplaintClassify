@@ -7,14 +7,14 @@ I developed a Customer Service Complaint Classifier using an RNN LSTM model trai
 
 ## Features and Benefits
 
-Trained a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) model using a dataset of 22,000 words and titles.
-Achieved an impressive accuracy rate of 93% in classifying customer service complaints.
-Categorizes customer complaints into predefined topics: 'credit_card', 'credit_reporting', 'debt_collection', 'mortgages_and_loans', and 'retail_banking'.
-Automates the complaint categorization process for faster and more efficient resolution of customer issues.
-Improves overall customer satisfaction by streamlining the customer support workflow.
-Reduces the manual effort required by chat support teams in identifying and classifying customer complaints.
-Enables timely and targeted responses to customer issues, leading to enhanced customer experience.
-Showcases expertise in machine learning, natural language processing, and problem-solving in the customer service domain.
+-Trained a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) model using a dataset of 22,000 words and titles.
+-Achieved an impressive accuracy rate of 93% in classifying customer service complaints.
+-Categorizes customer complaints into predefined topics: 'credit_card', 'credit_reporting', 'debt_collection', 'mortgages_and_loans', and 'retail_banking'.
+-Automates the complaint categorization process for faster and more efficient resolution of customer issues.
+-Improves overall customer satisfaction by streamlining the customer support workflow.
+-Reduces the manual effort required by chat support teams in identifying and classifying customer complaints.
+-Enables timely and targeted responses to customer issues, leading to enhanced customer experience.
+-Showcases expertise in machine learning, natural language processing, and problem-solving in the customer service domain.
 
 ## Authors
 
