@@ -40,11 +40,3 @@ I developed a Customer Service Complaint Classifier using an RNN LSTM model trai
 ![App Screenshot](Screenshot2.png)
 
 ![App Screenshot](Screenshot3.png)
-
-## Appendix and Future Updates
-
-Program cannot be fully uploaded to github due to .h5 model size and extension.
-
-NEED TO DEPLOY ONLINE, but needed an API for that to work
-
-
